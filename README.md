@@ -10,4 +10,4 @@
 (gitkall.png)
 
 ### git log --graph --oneline --decorate
-()
+(gitlog.png)
