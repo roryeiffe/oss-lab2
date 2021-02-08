@@ -33,3 +33,7 @@ https://github.com/roryeiffe/PullReq.git
 
 ### tag
 ![tag](tag.png)
+
+### Shared Repo
+https://github.com/roryeiffe/OSSProjectIdeas
+
