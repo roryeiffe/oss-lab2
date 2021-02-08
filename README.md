@@ -30,3 +30,6 @@ https://github.com/roryeiffe/PullReq.git
 
 ### diff
 ![diff](diff.png)
+
+### tag
+![tag](tag.png)
