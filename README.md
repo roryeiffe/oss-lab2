@@ -4,10 +4,10 @@
 * Project sub-area: Web Development
 
 ### git k
-(gitk.png)
+![gitk](gitk.png)
 
 ### git k-all
-(gitkall.png)
+![gitkall](gitkall.png)
 
 ### git log --graph --oneline --decorate
-(gitlog.png)
+![gitlog](gitlog.png)
